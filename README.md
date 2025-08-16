@@ -10,15 +10,6 @@ This project demonstrates a simple and responsive image gallery using semantic H
 - Centred image gallery
 - Simple and clean CSS styling
 
-## 📂 File Structure
-
-project-folder/
-├── index.html
-├── image1.jpg
-├── image2.jpg
-├── image3.jpg
-└── image4.jpg 
-
 
 ## 💻 Usage
 
@@ -27,5 +18,6 @@ project-folder/
 
 
 📜 License
+
 
 This project is licensed under the MIT License.
